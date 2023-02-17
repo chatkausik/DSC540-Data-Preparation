@@ -1,6 +1,6 @@
 # Covid 19 Data Analysis and Comparison
 
-!https://user-images.githubusercontent.com/13950516/162676269-ab24f4ed-7089-44de-bc64-64c2ae6b0710.png![image](https://user-images.githubusercontent.com/29112563/219549066-eea78b1c-75ef-404d-96a7-12024afed8b5.png)
+![https://user-images.githubusercontent.com/13950516/162676269-ab24f4ed-7089-44de-bc64-64c2ae6b0710.png![image]](https://user-images.githubusercontent.com/29112563/219549066-eea78b1c-75ef-404d-96a7-12024afed8b5.png)
 
 
 # Context
