@@ -28,7 +28,7 @@ For this project , I have selected data from the following sources:
 The datasets 1 and 2 are related by county and country code, whereas the dataset 1 and 3 are related by Country code, this will help me join the 3 datasets into one and perform any slicing dicing for visualization.
 
 
-### <img src="https://user-images.githubusercontent.com/13950516/162673345-5ea37d71-b9e4-47b7-aa6e-c43921d7b2d0.png" width="40" height="40" />&nbsp; Approach
+### <img src="https://user-images.githubusercontent.com/13950516/162673345-5ea37d71-b9e4-47b7-aa6e-c43921d7b2d0.png" width="40" height="40" />&nbsp; Approach:
 
 1. Data Gathering from Different Sources – While I had previous experience working with CSV for data gathering, I learned doing Web Scrapping using BeautifulSoup for processing HTML data. However there were a few challenges as the Web has grown organically out of many sources. It combines a ton of different technologies, styles, and personalities, and it continues to grow to this day.
 <br/> <br/> Also, I learned to fetch data from Web API using requests library, Request returns а Response, a powerful object for inspecting the results of the  request. Using Response, I examined the headers and contents of the response, get a dictionary with data from JSON in the response, and also determined how successful our access to the server was by the response code from it. 
@@ -40,7 +40,15 @@ The datasets 1 and 2 are related by county and country code, whereas the dataset
 4. Importing data in Sql table from Python – Mostly in my previous projects I never created any Db, added any table and queried, In this project I got a chance and learned sqllite3 to create database, I have also learned to use sqlalchemy library to create a database table and read into a dataframe.
 
 
-### <img src="https://user-images.githubusercontent.com/13950516/162673481-c1ce4edf-5240-43be-ae07-e7ef061be0c6.png" width="40" height="40" />&nbsp; Conclusion
+### <img src="https://user-images.githubusercontent.com/13950516/162673481-c1ce4edf-5240-43be-ae07-e7ef061be0c6.png" width="40" height="40" />&nbsp; 
+
+Ethical considerations:
+
+Data can be used to drive decisions and make an impact at scale. Yet, this powerful resource comes with challenges. How can organizations/individuals ethically collect, store, and use data? What rights must be upheld? The field of data ethics explores these questions and offers five guiding principles for business professionals who handle data.
+
+Data ethics encompasses the moral obligations of gathering, protecting, and using personally identifiable information and how it affects individuals. “Data ethics asks, ‘Is this the right thing to do?’ and ‘Can we do better?’” While we may not be the person responsible for implementing tracking code, managing a database, or writing and training a machine-learning algorithm, understanding data ethics can allow you to catch any instances of unethical data collection, storage, or use. By doing so, you can protect your customers' safety and save your organization from legal issues.
+
+Conclusion:
 
 In this project I touched on a lot of the technicalities of data wrangling also I understood the practical importance, Any analyses a business performs will ultimately be constrained by the data that informs them. If data is incomplete, unreliable, or faulty, then analyses will be too—diminishing the value of any insights gleaned. <br/>
 Data wrangling seeks to remove that risk by ensuring data is in a reliable state before it’s analyzed and leveraged. This makes it a critical part of the analytical process. when done manually data wrangling can be time-consuming. This can be reduced by defining some policies around data—for example, requiring that data include certain information or be in a specific format before it’s uploaded to a database.
