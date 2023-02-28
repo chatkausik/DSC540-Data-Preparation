@@ -48,6 +48,9 @@ Data can be used to drive decisions and make an impact at scale. Yet, this power
 
 Data ethics encompasses the moral obligations of gathering, protecting, and using personally identifiable information and how it affects individuals. “Data ethics asks, ‘Is this the right thing to do?’ and ‘Can we do better?’” While we may not be the person responsible for implementing tracking code, managing a database, or writing and training a machine-learning algorithm, understanding data ethics can allow you to catch any instances of unethical data collection, storage, or use. By doing so, you can protect your customers' safety and save your organization from legal issues.
 
+
+### <img src="https://user-images.githubusercontent.com/13950516/162673481-c1ce4edf-5240-43be-ae07-e7ef061be0c6.png" width="40" height="40" />&nbsp; 
+
 **Conclusion:**
 
 In this project I touched on a lot of the technicalities of data wrangling also I understood the practical importance, Any analyses a business performs will ultimately be constrained by the data that informs them. If data is incomplete, unreliable, or faulty, then analyses will be too—diminishing the value of any insights gleaned. <br/>
